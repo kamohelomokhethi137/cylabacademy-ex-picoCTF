@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="50.25 44.5 155.5 180.26">
+  <title id="title">CyLab Security Academy Shield C Logo</title>
+  <desc id="desc">
+    A shield logo split vertically with orange on the left, dark blue-gray on the right, and a white letter C centered over it.
+  </desc>
+  <defs>
+    <path id="rim" x1="180" y1="170" x2="844" y2="870" gradientUnits="userSpaceOnUse" d="">
+      <stop offset="0" stop-color="#7f7664"/>
+      <stop offset="0.35" stop-color="#20282b"/>
+      <stop offset="0.7" stop-color="#111719"/>
+      <stop offset="1" stop-color="#7a6b59"/>
+    </path>
+    <path id="innerShadow" x1="216" y1="202" x2="808" y2="850" gradientUnits="userSpaceOnUse" d="">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.22"/>
+    </path>
+    <clipPath id="shieldClip">
+      <path d="M128 46.248c-23.504 3 -47.248 11.248 -64.752 23l-6 4v50c0 45.752 25 75 70.752 92.752 45.752 -17.752 70.752 -47 70.752 -92.752v-50l-6 -4c-17.504 -11.752 -41.248 -20 -64.752 -23"/>
+    </clipPath>
+    <clipPath id="innerClip">
+      <path d="M128 57.504c-20.496 2.496 -41.248 9.744 -56.496 19.744v46c0 38.248 19.752 63 56.504 78.248 36.752 -15.248 56.504 -40 56.504 -78.248v-46c-15.248 -10 -36 -17.248 -56.504 -19.752"/>
+    </clipPath>
+  </defs>
+  <path d="M128 44.504c-25.504 3 -51.248 12 -70.752 25l-7 4.752v49C50.248 173 78 206 128 224.752 178 206 205.752 173 205.752 123.248v-49l-7 -4.752c-19.504 -13 -45.248 -22 -70.752 -25" fill="url(#rim)"/>
+  <path d="M128 51.248c-23.248 2.752 -46.496 10.752 -63.752 22l-7 4.504v45.504C57.248 168.504 82 198.504 128 216c46 -17.504 70.752 -47.504 70.752 -92.752v-45.504l-7 -4.504C174.504 62 151.248 54 128 51.248" fill="#151a1c" opacity="0.78"/>
+  <g clip-path="url(#innerClip)">
+    <path x="286" y="230" width="226" height="576" fill="#f07025" d="M71.504 57.504H128v144H71.504z"/>
+    <path x="512" y="230" width="226" height="576" fill="#0f5c80" d="M128 57.504h56.504v144H128z"/>
+    <path points="286,309 398,264 398,755 286,493" fill="#ffb070" opacity="0.18" d="m71.504 77.248 28 -11.248v122.752l-28 -65.504Z"/>
+    <path points="398,264 512,230 512,806 398,755" fill="#b54f17" opacity="0.18" d="M99.504 66 128 57.504v144l-28.504 -12.752Z"/>
+    <path points="512,230 623,264 623,755 512,806" fill="#4a92b8" opacity="0.22" d="M128 57.504 155.752 66v122.752L128 201.504Z"/>
+    <path points="623,264 738,309 738,493 623,755" fill="#063e5a" opacity="0.18" d="m155.752 66 28.752 11.248v46l-28.752 65.504Z"/>
+    <path x="286" y="230" width="452" height="576" fill="url(#innerShadow)" d="M71.504 57.504h113v144h-113z"/>
+  </g>
+  <path d="M128 57.504c-20.496 2.496 -41.248 9.744 -56.496 19.744v46c0 38.248 19.752 63 56.504 78.248 36.752 -15.248 56.504 -40 56.504 -78.248v-46c-15.248 -10 -36 -17.248 -56.504 -19.752Z" fill="none" stroke="#0d1113" stroke-width="2.5" opacity="0.7"/>
+  <path d="M128 59.504c-19.504 2.504 -39.248 9.248 -54 19v44.752C74 160 93 184 128 198.504 163 184 182 160 182 123.248v-44.744c-14.752 -9.752 -34.504 -16.504 -54 -19Z" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.22"/>
+  <g style="transform: translateX(2%);">
+    <path d="M151.88 89.128a40.56 40.56 0 0 0 -28.752 -8.376C99.376 83 81.504 100.504 81.504 128s17.88 45 41.624 47.248c10.752 1 21.248 -2.248 29.88 -9l-12.248 -14.752c-5.504 4 -11.752 5.752 -18.504 5 -13.752 -1.504 -23.248 -12.248 -23.248 -28.504s9.504 -27 23.248 -28.504c6.752 -0.752 13 1 18.504 5z" fill="#F3F0E6"/>
+  </g>
+  <path x1="512" y1="230" x2="512" y2="806" stroke="#ffffff" stroke-width="0.5" opacity="0.12" d="M128 57.504v144"/>
+</svg>
